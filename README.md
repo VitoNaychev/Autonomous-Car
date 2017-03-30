@@ -1,1 +1,2 @@
 # Autonomous-Car
+An arduino project for car driving automation achieved with 3 ultrasonic distance sensors for front, left and right distance measurement. Tjis project was originally developed as a for HackTUES, an anual Hackathon, holded in the school I currently studie in. The project was created in collaboration with my two teammates DanyYanev and thehughmungus. Dani masa 4e adna men i vlado kat kolaboratori i 4e moga da promenqm koda v originalnoto repositori. Mersi 4e me nakara i da napravq novo repositori za da moga da pravq promeni(znam 4e ima pull request ma sa ibi).
